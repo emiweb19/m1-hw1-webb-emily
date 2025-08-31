@@ -1,6 +1,5 @@
 # My First Coding Assignment
-![woman standing in front of cinderella castle wearing a maleficent dress and Minnie ears](m1-hw1-webb-emily
-/me at disney world.png)
+![woman standing in front of cinderella castle wearing a maleficent dress and Minnie ears](m1-hw1-webb-emily/me at disney world.png)
 ## About Me
 I am in my second year of my Master of Mass Communications program. I enjoy my family's annual trip to Disney World, exploring new places and trying new things, watching movies and live theatre, reading, playing with animals, and spending time with my husband.
 ## Past Coding Experience
